@@ -68,3 +68,6 @@ Em casos de dificuldades durante a execução ou montagem do protótipo, consult
 <h2>Link do Projeto</h2>
 
 Projeto realizado no site Wokwi: https://wokwi.com/projects/400360837759697921
+
+<h2>Link do video demonstração</h2>
+https://youtu.be/U0LXPmYrcI8
